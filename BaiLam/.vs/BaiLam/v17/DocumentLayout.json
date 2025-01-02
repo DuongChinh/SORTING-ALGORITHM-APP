@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\BaiLam2\\BaiLam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59553275-429C-4936-85F1-885ACD2CEA44}|BaiLam.vcxproj|D:\\Study\\BaiLam2\\BaiLam\\BaiLam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59553275-429C-4936-85F1-885ACD2CEA44}|BaiLam.vcxproj|solutionrelative:BaiLam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiLam.cpp",
+              "DocumentMoniker": "D:\\Study\\BaiLam2\\BaiLam\\BaiLam.cpp",
+              "RelativeDocumentMoniker": "BaiLam.cpp",
+              "ToolTip": "D:\\Study\\BaiLam2\\BaiLam\\BaiLam.cpp",
+              "RelativeToolTip": "BaiLam.cpp",
+              "ViewState": "AgIAACsBAAAAAAAAAAD4v0sBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T14:38:51.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  BaiLam.cpp
+E:\BaiLam2\BaiLam\BaiLam.cpp(593,23): warning C4018: '<': signed/unsigned mismatch
+E:\BaiLam2\BaiLam\BaiLam.cpp(604,23): warning C4018: '<': signed/unsigned mismatch
+  BaiLam.vcxproj -> E:\BaiLam2\BaiLam\Debug\BaiLam.exe
